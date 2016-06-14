@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Our class</string>
+    <string name="newtest1">Chris</string>
+    <string name="happy_string">Happy</string>
+    <string name="birth_string">BithDay</string>
+    <string name="no_of_cups_string">No of Cups :</string>
+    <string name="price_string">Unit Price :</string>
+    <string name="total_string">Total :</string>
+    <string name="compute_string">Compute</string>
+</resources>
